@@ -23,7 +23,7 @@ CSS3
 
 JavaScript
 
-Open-Meteo API (for weather data)
+Open-Meteo API (Geocoding + Weather)
 
 Chart.js (for temperature visualization)
 
@@ -39,6 +39,8 @@ https://github.com/smitha7-au/WeatherApp.git
 3. Open index.html in your browser to start the app
 
 **Future Improvements**
+
+Add humidity, wind speed, and precipitation data
 
 Improve design with CSS
 
